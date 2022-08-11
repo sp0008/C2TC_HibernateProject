@@ -13,7 +13,6 @@ value="com.mysql.jdbc.Driver" />
 value="jdbc:mysql://localhost:3306/labbook" />
 <property name="javax.persistence.jdbc.user" value="root" />
 <property name="javax.persistence.jdbc.password" value="root" />
-<property name="hibernate.hbm2ddl.auto" value="update"/><!-- for auto create or update tables -->
 </properties>
 </persistence-unit>
 </persistence>
